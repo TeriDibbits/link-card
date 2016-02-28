@@ -1,2 +1,61 @@
 html {
+  background-color: #f0eee8;
 }
+
+body {
+  background-color: #dcd4cd;
+  border-radius: 8px;
+  border-width: 3px;
+  border: solid #9a816d;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 15em;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  color: #512200;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: Georgia;
+  color: #512200;
+  font-size: 0.875rem;
+}
+
+li {
+  color: #512200;
+  font-size: 0.875rem;
+  list-style-type: none;
+  margin-left: 0em;
+}
+
+ul {
+  padding: 0px;
+}
+
+footer {
+  text-align: center;
+}
+
+.box {
+  text-decoration: none;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #fff;
+}
+
+a {
+  display: inline-block;
+  border-radius: 8px;
+  background-color: #785439;
+  padding: .5em .5em;
+  margin-bottom: 1em;
+}
+
+dark brown red #512200
+dark tan #9a816d
+light cream #f0eee8
+light brown #785439 button border?
